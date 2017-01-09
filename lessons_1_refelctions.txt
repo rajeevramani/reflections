@@ -1,0 +1,3 @@
+git log - lists the status of all commits in repo
+git diff - compare two files in repo
+git checkout - load the files from a specific commit point

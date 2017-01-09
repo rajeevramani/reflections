@@ -1,0 +1,13 @@
+git init - initilizes directory
+git log  - shows the history of the directory
+git status - shows the status of all files in the directory
+git add - puts the file from working directory to staging directory.
+git diff - compare working directory to staging area
+git diff --staged - compares staging area to latest commit.
+git diff comm1 comm2 - compares diff between two commits in a repository,
+                       because working directory and staging area dont have commits associated with
+                       them
+
+git branch - lists branch and checked out branch has a * against it
+git branch <label> - creates branch with a label
+git checkout <label> - checksout branch with the label
